@@ -1,0 +1,20 @@
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\bin\Debug\WindowsFormsComparer(с работы).exe
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\bin\Debug\WindowsFormsComparer(с работы).pdb
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer_с_работы_.Form1.resources
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer_с_работы_.Properties.Resources.resources
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).exe
+F:\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).pdb
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).exe
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).pdb
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer_с_работы_.Form1.resources
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer_с_работы_.Properties.Resources.resources
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\bin\Debug\WindowsFormsComparer(с работы).exe
+\\GREENFIELD\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\bin\Debug\WindowsFormsComparer(с работы).pdb
+\\192.168.0.253\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).exe
+\\192.168.0.253\Shared\Климат\WindowsFormsComparer\WindowsFormsComparer(с работы)\obj\x86\Debug\WindowsFormsComparer(с работы).pdb
